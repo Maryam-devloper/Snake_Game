@@ -22,4 +22,8 @@ This project was developed to practice and improve front-end web development ski
 
 <img width="1920" height="879" alt="Capture" src="https://github.com/user-attachments/assets/5d4d3199-68bd-4c65-a2f5-8c90d534f2d5" />
 
+### You can see the Live Demo Here:
+https://snakegaames.netlify.app/
+
+
 `snake-game` `javascript-game` `html-css-javascript` `web-game` `frontend-project` `browser-game` `game-development` `responsive-design` `html5` `css3` `javascript`
